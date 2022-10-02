@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Carlos👋
 
 <!--
 **Carlos-Vasquez11/Carlos-Vasquez11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💬 I'm studying Systems Engineering at the UTN in Buenos Aires, Argentina
+
+## 📈 GitHub Stats
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Vasquez11&,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<!--Si quisiera ocultar algún lenguaje podría utilizar username=Carlos-Vasquez11&hide=css -->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Carlos-Vasquez11.Carlos-Vasquez11)
