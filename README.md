@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 I'm studying Systems Engineering at the UTN in Buenos Aires, Argentina
+- 💬 Systems Engineering student
+- 💬 Platzi student. Focused on learning web development
 
 ## 📈 GitHub Stats
 <a>
@@ -23,4 +24,4 @@ Here are some ideas to get you started:
 </a>
 <!--Si quisiera ocultar algún lenguaje podría utilizar username=Carlos-Vasquez11&hide=css -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Carlos-Vasquez11.Carlos-Vasquez11)
+### 🔭 Never stop learning ✨
