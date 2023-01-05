@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Systems Engineering student
-- 💬 Platzi student. Focused on learning web development
+- 💬 Platzi student. Focused on learning Web Development
 
 - 🌱 Constantly Improving
 
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 </a>
 <!--Si quisiera ocultar algún lenguaje podría utilizar username=Carlos-Vasquez11&hide=css -->
 
-### 🔭 Never stop learning ✨
+### ✨ Never stop learning 
