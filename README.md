@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Systems Engineering student
-- 💬 Platzi student. Focused on learning Web Development
+- 💬 Focused on learning Web Development
 
 - 🌱 Constantly Improving
 
