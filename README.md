@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🚀 FullStack Developer
 - 💬 Systems Engineering student
-- 💬 Focused on learning Web Development
 
 - 🌱 Constantly Improving
 
